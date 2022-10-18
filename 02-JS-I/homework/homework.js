@@ -1,7 +1,7 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = elborris;
+const nuevaString = elevar;
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = 5;
@@ -129,13 +129,13 @@ function redondearNumero(num) {
   
 }
 
-function redondearHaciaArriba(num) {1234
+function redondearHaciaArriba(num) {
   // Redondea "num" hacia arriba (al próximo entero) y devuélvelo
   // Tu código: codigo 
   
 }
 
-function numeroRandom() {1
+function numeroRandom() {
   //Generar un número al azar entre 0 y 1 y devolverlo
   //Pista: investigá qué hace el método Math.random(1)
   
@@ -190,7 +190,7 @@ function areaDelTriangulo(base, altura){
 }
 
 
-function deEuroAdolar( euro){ 60
+function deEuroAdolar(euro){ 
   //Supongamos que 1 euro equivale a 1.20 dólares. Escribe un programa que reciba
   //como parámetro un número de euros y calcule el cambio en dólares.
   //Escribe tu código aquí: codigo 
@@ -198,7 +198,7 @@ function deEuroAdolar( euro){ 60
 }
 
 
-function esVocal(letra){yes
+function esVocal(letra){
   //Escribe una función que reciba una letra y, si es una vocal, muestre el mensaje “Es vocal”. 
   //Verificar si el usuario ingresó un string de más de un carácter, en ese caso, informarle 
   //que no se puede procesar el dato mediante el mensaje "Dato incorrecto".
